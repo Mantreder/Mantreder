@@ -1,7 +1,7 @@
 # ism = input('ism kiriting')
 
 # ismlar = {
-#     'ism1': ism
+#     'ism1': 
 # }
 
 # print(ism)
